@@ -1,5 +1,17 @@
 # @backstage/plugin-techdocs
 
+## 1.6.3-next.3
+
+### Patch Changes
+
+- e33beb1f2a8e: Make the documentation pages printable (also handy for exporting to PDF)
+- Updated dependencies
+  - @backstage/core-components@0.13.2-next.3
+  - @backstage/integration-react@1.1.14-next.3
+  - @backstage/plugin-catalog-react@1.7.0-next.3
+  - @backstage/plugin-search-react@1.6.1-next.3
+  - @backstage/plugin-techdocs-react@1.1.7-next.3
+
 ## 1.6.3-next.2
 
 ### Patch Changes

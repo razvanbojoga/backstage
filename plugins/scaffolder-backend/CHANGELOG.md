@@ -1,5 +1,12 @@
 # @backstage/plugin-scaffolder-backend
 
+## 1.15.0-next.3
+
+### Minor Changes
+
+- 84b0e47373db: Add `TargetBranchName` variable and output for the `publish:gitlab:merge-request` and `publish:github:pull-request` s'cascaffolder actions.
+- 1948845861b0: Added `github:deployKey:create` and `github:environment:create` scaffolder actions. You will need to add `read/write` permissions to your GITHUB_TOKEN and/or Github Backstage App for Repository `Administration` (for deploy key functionality) and `Environments` (for Environment functionality)
+
 ## 1.15.0-next.2
 
 ### Patch Changes

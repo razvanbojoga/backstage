@@ -1,5 +1,15 @@
 # @backstage/plugin-catalog-import
 
+## 0.9.9-next.3
+
+### Patch Changes
+
+- 309d2973adb4: Swap `ImportStepper` and `InfoCard` order to fix tab order in `catalog-import`.
+- Updated dependencies
+  - @backstage/core-components@0.13.2-next.3
+  - @backstage/integration-react@1.1.14-next.3
+  - @backstage/plugin-catalog-react@1.7.0-next.3
+
 ## 0.9.9-next.2
 
 ### Patch Changes

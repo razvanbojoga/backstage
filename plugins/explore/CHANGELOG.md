@@ -1,5 +1,15 @@
 # @backstage/plugin-explore
 
+## 0.4.4-next.3
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/core-components@0.13.2-next.3
+  - @backstage/plugin-catalog-react@1.7.0-next.3
+  - @backstage/plugin-search-react@1.6.1-next.3
+  - @backstage/plugin-explore-react@0.0.29-next.0
+
 ## 0.4.4-next.2
 
 ### Patch Changes

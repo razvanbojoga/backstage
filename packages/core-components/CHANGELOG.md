@@ -1,5 +1,11 @@
 # @backstage/core-components
 
+## 0.13.2-next.3
+
+### Patch Changes
+
+- e33beb1f2a8e: Make the documentation pages printable (also handy for exporting to PDF)
+
 ## 0.13.2-next.2
 
 ### Patch Changes
