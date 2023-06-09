@@ -68,4 +68,4 @@ spec:
     displayName: Razvan bojoga
     email: razvanbojoga@yahoo.com
     picture: https://avatars.dicebear.com/api/avataaars/nigel-manning@example.com.svg?background=%23fff
-  memberOf: [team-a]
+  memberOf: [team-a, team-b]
